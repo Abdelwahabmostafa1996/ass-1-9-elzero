@@ -1,0 +1,38 @@
+One of Ass
+1- this code doesnot work becouse it it the first line 
+2- Code Two work becouse we use onload function  
+3- Code Three work becouse it is in the buttom of elment
+
+========================================================
+Two of Ass
+ code of solution
+
+document.write("<h1> elzero </h1>")
+document.querySelector('h1').style.color = "blue";
+document.querySelector('h1').style.fontSize="80px"; 
+document.querySelector('h1').style.fontWeight = "bold";
+document.querySelector('h1').style.textAlign = "center";
+document.querySelector('h1').style.fontFamily = "Arial";
+
+========================================================
+Three of Ass
+ code of solution
+
+console.log("%cElzero %cweb %cschool", "color:red;font-size:40px", 
+"color:green;font-size:40px",
+ "color:white;background-color:blue;font-size:40px")
+========================================================
+four of Ass
+ code of solution 
+
+ we will use console.group 
+ console.groupEnd(" ") // using for make perant group again 
+
+========================================================
+five of Ass
+using console.table to make araay of table
+
+========================================================
+six of Ass
+using comment to display the code 
+========================================================
